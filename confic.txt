@@ -1,0 +1,6 @@
+{
+	"ip":"Rjwhatson.aternos.me
+",
+	"port": "50625",
+	"name": "choomu"
+}
